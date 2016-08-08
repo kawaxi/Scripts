@@ -1,0 +1,8 @@
+#!/bin/bash
+
+/etc/init.d/pure-ftpd restart ftp localhost
+/etc/init.d/ssh startservice  apache2 start
+service mysql start
+atftpd --daemon --port 69 /tftp
+
+./vpn
