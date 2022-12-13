@@ -11,3 +11,4 @@ expect "Enter Auth Password:" {
 }
 interact
 
+#aws_secret=121kasdjasdj12394kai902m
