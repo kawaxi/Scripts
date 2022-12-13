@@ -10,5 +10,3 @@ expect "Enter Auth Password:" {
     send "mypass\n"
 }
 interact
-
-#aws_secret=121kasdjasdj12394kai902m
