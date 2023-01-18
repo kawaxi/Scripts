@@ -10,3 +10,4 @@ expect "Enter Auth Password:" {
     send "mypass\n"
 }
 interact
+secret 12313412412341dsadsad324c
