@@ -10,3 +10,6 @@ expect "Enter Auth Password:" {
     send "mypass\n"
 }
 interact
+
+
+aws_secret="AKIAIMNOJVGFDXXXE4OA"
