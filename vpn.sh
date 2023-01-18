@@ -12,4 +12,3 @@ expect "Enter Auth Password:" {
 interact
 
 
-aws_secret="AKIAIMNOJVGFDXXXE4OA"
