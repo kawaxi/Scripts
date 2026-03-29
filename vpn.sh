@@ -10,3 +10,5 @@ expect "Enter Auth Password:" {
     send "mypass\n"
 }
 interact
+
+#you remove the secret.
